@@ -180,7 +180,7 @@ output/
 | `transcript.json` | Timestamped visible subtitles |
 | `evidence.json` | Subtitle, frame, and claim traceability |
 | `screenshots/` | Seven key evidence frames |
-| `run-state.json` | Stage status, timing, cache, and errors |
+| `run-state.json` | Stage status, timing, cache, and error |
 | `qa/qa.json` | Deterministic and manual report QA |
 
 ## Design principles
@@ -253,7 +253,7 @@ This repository:
 
 Do not commit client videos, subtitles, screenshots, reports, credentials, or private analysis artifacts.
 
-This project is independent and is not affiliated with or endorsed by Douyin.
+This project is independent and is not affiliated with or endorsed by Douyin. 
 
 ## Development
 
