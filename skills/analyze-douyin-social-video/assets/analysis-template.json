@@ -1,0 +1,103 @@
+{
+  "runtime": {
+    "mode": "standard",
+    "version": 2
+  },
+  "video": {},
+  "classification": {
+    "primary": "",
+    "secondary": "",
+    "confidence": "",
+    "rationale": "",
+    "positive_evidence": [],
+    "exclusion_rationale": ""
+  },
+  "product_ads": [],
+  "marketing_insight": {
+    "content_value": {"text": "", "evidence": []},
+    "product_perception": {"text": "", "evidence": []},
+    "activation_implication": {"text": "", "evidence": []},
+    "hook": {
+      "mechanism": "",
+      "target_circle": "",
+      "familiar_motif": "",
+      "distinctive_angle": "",
+      "narrative_devices": [],
+      "evidence": []
+    },
+    "scene": {
+      "audience": "",
+      "occasion": "",
+      "pain_point": "",
+      "evidence": []
+    },
+    "product_entry": {
+      "identity": "",
+      "persona_fit": "",
+      "integration_bridge": "",
+      "evidence": []
+    },
+    "creator_assets_observed": "",
+    "core_product_perception": "",
+    "selling_point_strategy": {
+      "core_selling_point": "",
+      "supporting_points": [],
+      "strongest_rtb": {
+        "category": "",
+        "summary": "",
+        "why_it_persuades": "",
+        "evidence_type": "",
+        "start": 0,
+        "end": 0,
+        "source": "",
+        "quote": "",
+        "frame_path": ""
+      },
+      "deprioritized_mentions": []
+    },
+    "rtb": {
+      "sensoriality": [],
+      "scientific_language": [],
+      "proof": []
+    },
+    "cta": {
+      "detected": false,
+      "types": [],
+      "purchase_barrier_reduced": "",
+      "evidence": []
+    },
+    "viewer_payoff": "",
+    "consumer_need": "",
+    "product_role": "",
+    "core_effective_mechanism": "",
+    "integration_naturalness_basis": "",
+    "integration_chain": [],
+    "potential_topics": [],
+    "confidence": ""
+  },
+  "screenshots": [],
+  "transcript": {
+    "path": "",
+    "coverage": "unknown",
+    "segment_count": 0
+  },
+  "evidence": {
+    "path": ""
+  },
+  "review": {
+    "path": "",
+    "board_path": "",
+    "product_signal_windows": [],
+    "review_frames": [],
+    "note": ""
+  },
+  "evidence_registry": {},
+  "draft_assistance": {
+    "status": "review_required",
+    "classification_evidence": [],
+    "product_ads": [],
+    "screenshots": [],
+    "instructions": ""
+  },
+  "limitations": []
+}

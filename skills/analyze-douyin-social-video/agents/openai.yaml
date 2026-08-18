@@ -1,0 +1,4 @@
+interface:
+  display_name: "Douyin Social Commerce Intelligence"
+  short_description: "本地OCR、证据链与社交电商策略分析"
+  default_prompt: "请使用 $analyze-douyin-social-video 以 Standard 模式分析这个我有权处理的带完整字幕视频，并生成可审计洞察与经检查的PDF报告。"

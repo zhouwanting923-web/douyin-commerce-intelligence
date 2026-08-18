@@ -1,0 +1,198 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="820" viewBox="0 0 1800 820" role="img" aria-labelledby="title desc">
+  <title id="title">Evidence intelligence workflow</title>
+  <desc id="desc">An authorized commerce video is reconstructed into a subtitle timeline, classified, reviewed for confirmed product integration, mapped into a persuasion chain, and delivered as a verified report.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#050817"/>
+      <stop offset="0.54" stop-color="#0a1024"/>
+      <stop offset="1" stop-color="#15143a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#67e8f9"/>
+      <stop offset="0.52" stop-color="#818cf8"/>
+      <stop offset="1" stop-color="#e879f9"/>
+    </linearGradient>
+    <linearGradient id="phoneScene" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#d8b4d0"/>
+      <stop offset="0.46" stop-color="#7c5a8f"/>
+      <stop offset="1" stop-color="#18162b"/>
+    </linearGradient>
+    <linearGradient id="bottle" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#f4d9e7" stop-opacity="0.88"/>
+      <stop offset="0.45" stop-color="#8e6f94" stop-opacity="0.72"/>
+      <stop offset="0.72" stop-color="#f5d7e3" stop-opacity="0.64"/>
+      <stop offset="1" stop-color="#2a2137" stop-opacity="0.92"/>
+    </linearGradient>
+    <linearGradient id="report" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#151a36"/>
+      <stop offset="1" stop-color="#090d1e"/>
+    </linearGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#ffffff" stroke-opacity="0.025"/>
+    </pattern>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="180%">
+      <feDropShadow dx="0" dy="22" stdDeviation="22" flood-color="#02040d" flood-opacity="0.72"/>
+    </filter>
+    <filter id="glow" x="-300%" y="-300%" width="700%" height="700%">
+      <feGaussianBlur stdDeviation="7" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="phoneClip"><rect x="91" y="184" width="261" height="472" rx="29"/></clipPath>
+  </defs>
+
+  <rect width="1800" height="820" rx="40" fill="url(#bg)"/>
+  <rect width="1800" height="820" rx="40" fill="url(#grid)"/>
+  <ellipse cx="938" cy="818" rx="760" ry="180" fill="#7c3aed" opacity="0.07"/>
+  <ellipse cx="1745" cy="92" rx="320" ry="260" fill="#3b82f6" opacity="0.05"/>
+
+  <g font-family="Inter, SF Pro Display, Helvetica Neue, Arial, sans-serif">
+    <text x="72" y="70" fill="#8deaff" font-size="13" font-weight="700" letter-spacing="4">EVIDENCE INTELLIGENCE PIPELINE</text>
+    <text x="72" y="111" fill="#f8fafc" font-size="30" font-weight="700">How a commerce video becomes a defensible decision</text>
+    <text x="72" y="143" fill="#8f9bb3" font-size="15">Every conclusion stays connected to a timestamp, subtitle, or source frame.</text>
+
+    <!-- Source phone -->
+    <g filter="url(#shadow)">
+      <rect x="72" y="164" width="299" height="512" rx="46" fill="#070a13" stroke="#8ca3d7" stroke-opacity="0.62" stroke-width="2"/>
+      <rect x="82" y="174" width="279" height="492" rx="37" fill="#0a0d18" stroke="#ffffff" stroke-opacity="0.14"/>
+      <g clip-path="url(#phoneClip)">
+        <rect x="91" y="184" width="261" height="472" fill="url(#phoneScene)"/>
+        <circle cx="295" cy="245" r="105" fill="#f9a8d4" opacity="0.13"/>
+        <path d="M91 506 C150 456 206 468 264 430 S330 398 352 414V656H91Z" fill="#171625"/>
+        <path d="M92 530 C154 485 209 502 272 458 S334 443 352 452V656H92Z" fill="#2b293c" opacity="0.92"/>
+        <ellipse cx="220" cy="479" rx="69" ry="24" fill="#05060a" opacity="0.52"/>
+        <rect x="189" y="305" width="63" height="173" rx="18" fill="url(#bottle)" stroke="#ffd6e8" stroke-opacity="0.7"/>
+        <rect x="201" y="276" width="39" height="44" rx="8" fill="#15101a" stroke="#e8cbd8" stroke-opacity="0.55"/>
+        <rect x="211" y="248" width="19" height="38" rx="9" fill="#161119"/>
+        <path d="M220 248v-21c0-14 10-22 10-35" fill="none" stroke="#ead7df" stroke-opacity="0.85" stroke-width="4" stroke-linecap="round"/>
+        <rect x="202" y="376" width="37" height="49" rx="5" fill="#ebe5f3" opacity="0.82"/>
+        <text x="220" y="396" text-anchor="middle" fill="#47364f" font-size="8" font-weight="700" letter-spacing="1">SERUM</text>
+        <text x="220" y="409" text-anchor="middle" fill="#6b5575" font-size="6">BARRIER CARE</text>
+        <path d="M123 446c18-44 40-69 52-89M122 445c-6-41-8-72-3-104M128 414c-22-16-35-32-42-53" fill="none" stroke="#d6a0c5" stroke-width="3" stroke-linecap="round"/>
+        <circle cx="175" cy="357" r="9" fill="#d8a1cf"/><circle cx="120" cy="341" r="8" fill="#c390c5"/><circle cx="86" cy="361" r="7" fill="#b484bd"/>
+
+        <rect x="112" y="542" width="220" height="66" rx="12" fill="#060812" fill-opacity="0.78" stroke="#ffffff" stroke-opacity="0.13"/>
+        <text x="128" y="564" fill="#f8fafc" font-size="12" font-weight="650">“After a long outdoor day...”</text>
+        <text x="128" y="585" fill="#aab5cb" font-size="11">Visible subtitle · 00:18.4</text>
+        <line x1="112" y1="625" x2="332" y2="625" stroke="#ffffff" stroke-opacity="0.18" stroke-width="4" stroke-linecap="round"/>
+        <line x1="112" y1="625" x2="226" y2="625" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
+      </g>
+      <rect x="179" y="179" width="84" height="19" rx="10" fill="#080a10"/>
+      <circle cx="220" cy="665" r="4" fill="#ffffff" opacity="0.3"/>
+    </g>
+    <text x="221" y="714" text-anchor="middle" fill="#f8fafc" font-size="14" font-weight="700" letter-spacing="1.5">AUTHORIZED SOURCE</text>
+    <text x="221" y="737" text-anchor="middle" fill="#6f7c95" font-size="12">Local MP4 · visible subtitles</text>
+
+    <!-- Connectors -->
+    <path d="M371 420H426C444 420 444 255 464 255" fill="none" stroke="#67e8f9" stroke-opacity="0.58" stroke-width="2"/>
+    <path d="M371 420H426C444 420 444 377 464 377" fill="none" stroke="#818cf8" stroke-opacity="0.58" stroke-width="2"/>
+    <path d="M371 420H426C444 420 444 499 464 499" fill="none" stroke="#a78bfa" stroke-opacity="0.58" stroke-width="2"/>
+    <path d="M371 420H426C444 420 444 621 464 621" fill="none" stroke="#e879f9" stroke-opacity="0.52" stroke-width="2"/>
+    <circle cx="371" cy="420" r="5" fill="#8be9ff" filter="url(#glow)"/>
+
+    <!-- Evidence engine -->
+    <g filter="url(#shadow)">
+      <rect x="464" y="174" width="850" height="515" rx="28" fill="#0c1124" fill-opacity="0.92" stroke="#7284b5" stroke-opacity="0.34"/>
+      <rect x="480" y="190" width="818" height="483" rx="20" fill="#0a0f20" stroke="#ffffff" stroke-opacity="0.055"/>
+    </g>
+    <text x="500" y="222" fill="#f8fafc" font-size="15" font-weight="700" letter-spacing="2.4">EVIDENCE ENGINE</text>
+    <text x="1261" y="222" text-anchor="end" fill="#6f7d99" font-size="11" letter-spacing="1.5">LOCAL · CACHED · REVIEWABLE</text>
+
+    <!-- Module 1 -->
+    <g transform="translate(500 242)">
+      <rect width="762" height="92" rx="15" fill="#121a31" stroke="#67e8f9" stroke-opacity="0.22"/>
+      <rect x="20" y="18" width="42" height="42" rx="11" fill="#0e3a51" stroke="#67e8f9" stroke-opacity="0.45"/>
+      <path d="M31 40h5l3-10 5 20 5-28 5 18h5" fill="none" stroke="#85efff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="80" y="29" fill="#8deaff" font-size="11" font-weight="700" letter-spacing="2">01 · TIMELINE RECONSTRUCTION</text>
+      <text x="80" y="53" fill="#f8fafc" font-size="15" font-weight="650">Subtitle, scene change, and product-language signals align on one clock.</text>
+      <text x="80" y="75" fill="#8390aa" font-size="11">00:00</text><text x="690" y="75" fill="#8390aa" font-size="11">01:00</text>
+      <line x1="122" y1="71" x2="675" y2="71" stroke="#33415f" stroke-width="5" stroke-linecap="round"/>
+      <line x1="248" y1="71" x2="452" y2="71" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
+      <g fill="#8be9ff"><circle cx="248" cy="71" r="5"/><circle cx="452" cy="71" r="5"/></g>
+    </g>
+
+    <!-- Module 2 -->
+    <g transform="translate(500 351)">
+      <rect width="762" height="92" rx="15" fill="#13182f" stroke="#818cf8" stroke-opacity="0.24"/>
+      <rect x="20" y="18" width="42" height="42" rx="11" fill="#20265a" stroke="#818cf8" stroke-opacity="0.5"/>
+      <path d="M32 30h18v9H32zM32 44h18v9H32z" fill="none" stroke="#b7c0ff" stroke-width="2"/><path d="M54 32h5M54 46h5" stroke="#b7c0ff" stroke-width="2" stroke-linecap="round"/>
+      <text x="80" y="29" fill="#aeb8ff" font-size="11" font-weight="700" letter-spacing="2">02 · PRIMARY VIEWING VALUE</text>
+      <text x="80" y="53" fill="#f8fafc" font-size="15" font-weight="650">Classification follows the content's main value—not isolated keywords.</text>
+      <g font-size="10" font-weight="700" letter-spacing="0.8">
+        <rect x="80" y="65" width="72" height="18" rx="9" fill="#242c4e"/><text x="116" y="78" text-anchor="middle" fill="#9aa7c1">DRAMA</text>
+        <rect x="160" y="65" width="82" height="18" rx="9" fill="#4f46e5"/><text x="201" y="78" text-anchor="middle" fill="#ffffff">SEEDING</text>
+        <rect x="250" y="65" width="92" height="18" rx="9" fill="#242c4e"/><text x="296" y="78" text-anchor="middle" fill="#9aa7c1">LIFESTYLE</text>
+        <rect x="350" y="65" width="92" height="18" rx="9" fill="#242c4e"/><text x="396" y="78" text-anchor="middle" fill="#9aa7c1">BRANDING</text>
+        <rect x="450" y="65" width="70" height="18" rx="9" fill="#242c4e"/><text x="485" y="78" text-anchor="middle" fill="#9aa7c1">OFFER</text>
+      </g>
+      <text x="733" y="75" text-anchor="end" fill="#aeb8ff" font-size="11" font-weight="700">RULE + EXCLUSION</text>
+    </g>
+
+    <!-- Module 3 -->
+    <g transform="translate(500 460)">
+      <rect width="762" height="92" rx="15" fill="#17162f" stroke="#a78bfa" stroke-opacity="0.25"/>
+      <rect x="20" y="18" width="42" height="42" rx="11" fill="#36235b" stroke="#a78bfa" stroke-opacity="0.5"/>
+      <path d="M31 34h20v18H31zM36 29h10v5" fill="none" stroke="#dccdff" stroke-width="2"/><path d="M35 43h12" stroke="#dccdff" stroke-width="2"/>
+      <text x="80" y="29" fill="#d6c5ff" font-size="11" font-weight="700" letter-spacing="2">03 · CONFIRMED PRODUCT INTEGRATION</text>
+      <text x="80" y="53" fill="#f8fafc" font-size="15" font-weight="650">A continuous interval requires presentation + product name + claim or experience.</text>
+      <g font-size="10" font-weight="700">
+        <circle cx="95" cy="75" r="8" fill="#4c3a75"/><text x="95" y="79" text-anchor="middle" fill="#efe8ff">✓</text><text x="110" y="79" fill="#aab4ca">PRESENTATION</text>
+        <circle cx="250" cy="75" r="8" fill="#4c3a75"/><text x="250" y="79" text-anchor="middle" fill="#efe8ff">✓</text><text x="265" y="79" fill="#aab4ca">NAME</text>
+        <circle cx="338" cy="75" r="8" fill="#4c3a75"/><text x="338" y="79" text-anchor="middle" fill="#efe8ff">✓</text><text x="353" y="79" fill="#aab4ca">SELLING POINT</text>
+      </g>
+      <rect x="590" y="63" width="143" height="22" rx="11" fill="#281f47" stroke="#b39bff" stroke-opacity="0.45"/>
+      <text x="661" y="78" text-anchor="middle" fill="#e8deff" font-size="10" font-weight="700">00:18.4 — 00:36.1</text>
+    </g>
+
+    <!-- Module 4 -->
+    <g transform="translate(500 569)">
+      <rect width="762" height="82" rx="15" fill="#1a142d" stroke="#e879f9" stroke-opacity="0.22"/>
+      <rect x="20" y="16" width="42" height="42" rx="11" fill="#48214b" stroke="#e879f9" stroke-opacity="0.45"/>
+      <circle cx="41" cy="37" r="11" fill="none" stroke="#f2b8f7" stroke-width="2"/><path d="M41 29v8l6 4" fill="none" stroke="#f2b8f7" stroke-width="2" stroke-linecap="round"/>
+      <text x="80" y="27" fill="#f1b9f7" font-size="11" font-weight="700" letter-spacing="2">04 · PERSUASION CHAIN</text>
+      <g font-size="11" font-weight="650">
+        <text x="82" y="57" fill="#f8fafc">SITUATION</text><text x="176" y="57" fill="#6f7d99">→</text>
+        <text x="198" y="57" fill="#f8fafc">TENSION</text><text x="280" y="57" fill="#6f7d99">→</text>
+        <text x="302" y="57" fill="#f8fafc">PRODUCT ROLE</text><text x="416" y="57" fill="#6f7d99">→</text>
+        <text x="438" y="57" fill="#f8fafc">STRONGEST RTB</text><text x="566" y="57" fill="#6f7d99">→</text>
+        <text x="590" y="57" fill="#f8fafc">RESOLUTION</text>
+      </g>
+    </g>
+
+    <!-- Report preview -->
+    <path d="M1314 420h49" stroke="#91a3df" stroke-opacity="0.7" stroke-width="2"/>
+    <circle cx="1363" cy="420" r="5" fill="#b8c3ff" filter="url(#glow)"/>
+    <g filter="url(#shadow)">
+      <rect x="1390" y="174" width="338" height="515" rx="24" fill="url(#report)" stroke="#c7d2fe" stroke-opacity="0.5"/>
+      <path d="M1667 174h61v61z" fill="#6d6bb9" opacity="0.65"/><path d="M1667 174v61h61" fill="none" stroke="#d7ddff" stroke-opacity="0.65"/>
+      <text x="1422" y="214" fill="#aeb8ff" font-size="10" font-weight="700" letter-spacing="2">INTELLIGENCE REPORT</text>
+      <text x="1422" y="242" fill="#f8fafc" font-size="20" font-weight="700">Video evidence brief</text>
+      <text x="1422" y="264" fill="#7987a4" font-size="11">Classification · integration · strategy</text>
+      <line x1="1422" y1="286" x2="1696" y2="286" stroke="#ffffff" stroke-opacity="0.1"/>
+
+      <rect x="1422" y="306" width="104" height="24" rx="12" fill="#4538ba"/><text x="1474" y="322" text-anchor="middle" fill="#ffffff" font-size="10" font-weight="700">SEEDING</text>
+      <text x="1696" y="322" text-anchor="end" fill="#8be9ff" font-size="10" font-weight="700">EVIDENCE LOCKED</text>
+
+      <rect x="1422" y="352" width="274" height="78" rx="12" fill="#111831" stroke="#ffffff" stroke-opacity="0.08"/>
+      <text x="1438" y="374" fill="#8b98b2" font-size="10" letter-spacing="1.2">AD TIMELINE</text>
+      <line x1="1438" y1="404" x2="1678" y2="404" stroke="#34405a" stroke-width="7" stroke-linecap="round"/>
+      <line x1="1510" y1="404" x2="1618" y2="404" stroke="url(#accent)" stroke-width="7" stroke-linecap="round"/>
+      <text x="1438" y="421" fill="#65728c" font-size="9">00:00</text><text x="1678" y="421" text-anchor="end" fill="#65728c" font-size="9">01:00</text>
+
+      <text x="1422" y="462" fill="#8b98b2" font-size="10" letter-spacing="1.2">SEVEN KEY FRAMES</text>
+      <g>
+        <rect x="1422" y="477" width="61" height="54" rx="8" fill="url(#phoneScene)"/><rect x="1493" y="477" width="61" height="54" rx="8" fill="#26203f"/><rect x="1564" y="477" width="61" height="54" rx="8" fill="#352248"/><rect x="1635" y="477" width="61" height="54" rx="8" fill="#211e3f"/>
+        <rect x="1422" y="540" width="61" height="54" rx="8" fill="#252344"/><rect x="1493" y="540" width="61" height="54" rx="8" fill="#3b294a"/><rect x="1564" y="540" width="61" height="54" rx="8" fill="#282348"/>
+        <g fill="#d7b6cf" opacity="0.9"><rect x="1448" y="494" width="10" height="24" rx="3"/><rect x="1518" y="492" width="12" height="28" rx="3"/><rect x="1588" y="496" width="12" height="22" rx="3"/><rect x="1660" y="493" width="11" height="26" rx="3"/></g>
+      </g>
+      <text x="1422" y="623" fill="#8b98b2" font-size="10" letter-spacing="1.2">PRODUCT MARKETING INSIGHT</text>
+      <rect x="1422" y="638" width="238" height="6" rx="3" fill="#4d5875"/><rect x="1422" y="652" width="274" height="6" rx="3" fill="#2d3750"/><rect x="1422" y="666" width="196" height="6" rx="3" fill="#2d3750"/>
+    </g>
+    <text x="1559" y="714" text-anchor="middle" fill="#f8fafc" font-size="14" font-weight="700" letter-spacing="1.5">DECISION-READY OUTPUT</text>
+    <text x="1559" y="737" text-anchor="middle" fill="#6f7c95" font-size="12">PDF · JSON · screenshots · QA</text>
+
+    <line x1="72" y1="774" x2="1728" y2="774" stroke="#ffffff" stroke-opacity="0.08"/>
+    <text x="72" y="800" fill="#66748f" font-size="10" font-weight="700" letter-spacing="2.6">SOURCE LOCKED</text>
+    <text x="831" y="800" text-anchor="middle" fill="#7a87a3" font-size="10" font-weight="700" letter-spacing="2.6">EVIDENCE BEFORE INFERENCE</text>
+    <text x="1728" y="800" text-anchor="end" fill="#8c7eaa" font-size="10" font-weight="700" letter-spacing="2.6">VISUALLY VERIFIED</text>
+  </g>
+</svg>
